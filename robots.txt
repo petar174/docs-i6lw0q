@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-j8o46m.indocuan.online/sitemap.xml
